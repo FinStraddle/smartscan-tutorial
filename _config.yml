@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: SmartScan - Nifty 50 Technical Analysis Tool
+description: A comprehensive guide to technical analysis with Python
+markdown: kramdown
